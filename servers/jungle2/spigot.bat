@@ -1,8 +1,8 @@
-@echo off
+//@echo off
 
-git pull
+"%PROGRAMFILES%\Git\bin\sh.exe" --login -i -c "git pull"
 
 java -XX:+UseConcMarkSweepGC -jar ../../builds/spigot-1.12.2.jar --plugins ../../plugins
 
-git commit -am "Savepoint"
-git push
+"%PROGRAMFILES%\Git\bin\sh.exe" --login -i -c "git commit -am 'Savepoint'"
+"%PROGRAMFILES%\Git\bin\sh.exe" --login -i -c "git push"
