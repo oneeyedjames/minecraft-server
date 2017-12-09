@@ -1,0 +1,170 @@
+[15:22:59] [Server thread/INFO]: Loading properties
+[15:23:00] [Server thread/INFO]: Default game type: SURVIVAL
+[15:23:00] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-d21162c-82f3b02 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:23:02] [Server thread/INFO]: Debug logging is disabled
+[15:23:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:23:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:23:02] [Server thread/INFO]: Generating keypair
+[15:23:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:23:03] [Server thread/INFO]: Using default channel type
+[15:23:05] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:23:05] [Server thread/INFO]: [MineChef] Loading MineChef v0.1-SNAPSHOT
+[15:23:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:23:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:23:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:23:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:23:05] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:23:05] [Server thread/INFO]: Preparing level "world"
+[15:23:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:23:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:23:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:23:05] [Server thread/INFO]: View Distance: 10
+[15:23:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:23:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:23:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:23:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:23:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:23:05] [Server thread/INFO]: Mob Spawn Range: 4
+[15:23:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:23:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:23:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:23:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:23:05] [Server thread/INFO]: Random Lighting Updates: false
+[15:23:05] [Server thread/INFO]: Structure Info Saving: true
+[15:23:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:23:05] [Server thread/INFO]: Max TNT Explosions: 100
+[15:23:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:23:07] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:23:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:23:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:23:07] [Server thread/INFO]: View Distance: 10
+[15:23:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:23:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:23:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:23:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:23:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:23:07] [Server thread/INFO]: Mob Spawn Range: 4
+[15:23:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:23:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:23:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:23:07] [Server thread/INFO]: Random Lighting Updates: false
+[15:23:07] [Server thread/INFO]: Structure Info Saving: true
+[15:23:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:23:07] [Server thread/INFO]: Max TNT Explosions: 100
+[15:23:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:23:07] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:23:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:23:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:23:07] [Server thread/INFO]: View Distance: 10
+[15:23:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:23:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:23:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:23:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:23:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:23:07] [Server thread/INFO]: Mob Spawn Range: 4
+[15:23:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:23:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:23:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:23:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:23:07] [Server thread/INFO]: Random Lighting Updates: false
+[15:23:07] [Server thread/INFO]: Structure Info Saving: true
+[15:23:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:23:07] [Server thread/INFO]: Max TNT Explosions: 100
+[15:23:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:23:08] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1720714669532864895)
+[15:23:09] [Server thread/INFO]: Preparing spawn area: 0%
+[15:23:10] [Server thread/INFO]: Preparing spawn area: 3%
+[15:23:11] [Server thread/INFO]: Preparing spawn area: 9%
+[15:23:12] [Server thread/INFO]: Preparing spawn area: 14%
+[15:23:13] [Server thread/INFO]: Preparing spawn area: 20%
+[15:23:14] [Server thread/INFO]: Preparing spawn area: 24%
+[15:23:15] [Server thread/INFO]: Preparing spawn area: 28%
+[15:23:16] [Server thread/INFO]: Preparing spawn area: 32%
+[15:23:17] [Server thread/INFO]: Preparing spawn area: 36%
+[15:23:18] [Server thread/INFO]: Preparing spawn area: 41%
+[15:23:19] [Server thread/INFO]: Preparing spawn area: 46%
+[15:23:20] [Server thread/INFO]: Preparing spawn area: 50%
+[15:23:21] [Server thread/INFO]: Preparing spawn area: 54%
+[15:23:22] [Server thread/INFO]: Preparing spawn area: 59%
+[15:23:23] [Server thread/INFO]: Preparing spawn area: 64%
+[15:23:24] [Server thread/INFO]: Preparing spawn area: 69%
+[15:23:25] [Server thread/INFO]: Preparing spawn area: 76%
+[15:23:26] [Server thread/INFO]: Preparing spawn area: 83%
+[15:23:27] [Server thread/INFO]: Preparing spawn area: 92%
+[15:23:28] [Server thread/INFO]: Preparing spawn area: 99%
+[15:23:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1720714669532864895)
+[15:23:29] [Server thread/INFO]: Preparing spawn area: 4%
+[15:23:30] [Server thread/INFO]: Preparing spawn area: 12%
+[15:23:31] [Server thread/INFO]: Preparing spawn area: 20%
+[15:23:32] [Server thread/INFO]: Preparing spawn area: 27%
+[15:23:33] [Server thread/INFO]: Preparing spawn area: 35%
+[15:23:34] [Server thread/INFO]: Preparing spawn area: 42%
+[15:23:35] [Server thread/INFO]: Preparing spawn area: 48%
+[15:23:36] [Server thread/INFO]: Preparing spawn area: 55%
+[15:23:37] [Server thread/INFO]: Preparing spawn area: 63%
+[15:23:38] [Server thread/INFO]: Preparing spawn area: 71%
+[15:23:39] [Server thread/INFO]: Preparing spawn area: 77%
+[15:23:40] [Server thread/INFO]: Preparing spawn area: 83%
+[15:23:41] [Server thread/INFO]: Preparing spawn area: 92%
+[15:23:42] [Server thread/INFO]: Preparing spawn area: 99%
+[15:23:42] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1720714669532864895)
+[15:23:43] [Server thread/INFO]: Preparing spawn area: 15%
+[15:23:44] [Server thread/INFO]: Preparing spawn area: 28%
+[15:23:45] [Server thread/INFO]: Preparing spawn area: 34%
+[15:23:46] [Server thread/INFO]: Preparing spawn area: 44%
+[15:23:47] [Server thread/INFO]: Preparing spawn area: 53%
+[15:23:49] [Server thread/INFO]: Preparing spawn area: 65%
+[15:23:50] [Server thread/INFO]: Preparing spawn area: 68%
+[15:23:51] [Server thread/INFO]: Preparing spawn area: 78%
+[15:23:52] [Server thread/INFO]: Preparing spawn area: 80%
+[15:23:53] [Server thread/INFO]: Preparing spawn area: 83%
+[15:23:54] [Server thread/INFO]: Preparing spawn area: 84%
+[15:23:55] [Server thread/INFO]: Preparing spawn area: 92%
+[15:23:56] [Server thread/INFO]: Preparing spawn area: 99%
+[15:23:56] [Server thread/INFO]: [MineChef] Enabling MineChef v0.1-SNAPSHOT
+[15:23:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:23:56] [Server thread/INFO]: Done (51.240s)! For help, type "help" or "?"
+[15:25:04] [User Authenticator #1/INFO]: UUID of player Andrew is e3b5e958-66d0-3326-b46f-86f10441d740
+[15:25:04] [Server thread/INFO]: Tried to load unrecognized recipe: bukkit:3f190531-1673-40f2-956b-cf7dc608d33d removed now.
+[15:25:04] [Server thread/INFO]: Tried to load unrecognized recipe: bukkit:80175168-23e8-458c-bc2d-21d4fdcbdecc removed now.
+[15:25:04] [Server thread/INFO]: Tried to load unrecognized recipe: bukkit:3f190531-1673-40f2-956b-cf7dc608d33d removed now.
+[15:25:04] [Server thread/INFO]: Tried to load unrecognized recipe: bukkit:80175168-23e8-458c-bc2d-21d4fdcbdecc removed now.
+[15:25:04] [Server thread/INFO]: Andrew[/127.0.0.1:50376] logged in with entity id 260 at ([world]-256.5, 71.0, -102.5)
+[15:25:17] [Server thread/INFO]: Andrew lost connection: Disconnected
+[15:25:17] [Server thread/INFO]: Andrew left the game
+[15:25:23] [Server thread/INFO]: Stopping the server
+[15:25:23] [Server thread/INFO]: Stopping server
+[15:25:23] [Server thread/INFO]: [MineChef] Disabling MineChef v0.1-SNAPSHOT
+[15:25:23] [Server thread/INFO]: Saving players
+[15:25:23] [Server thread/INFO]: Saving worlds
+[15:25:23] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[15:25:23] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[15:25:23] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

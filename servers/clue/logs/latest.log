@@ -1,0 +1,464 @@
+[16:38:28] [Server thread/INFO]: Starting minecraft server version 1.11
+[16:38:28] [Server thread/INFO]: Loading properties
+[16:38:28] [Server thread/INFO]: Default game type: SURVIVAL
+[16:38:28] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6f7aabf-c8ff651 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
+[16:38:28] [Server thread/INFO]: Debug logging is disabled
+[16:38:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:38:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:38:28] [Server thread/INFO]: Generating keypair
+[16:38:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:38:28] [Server thread/INFO]: Using default channel type
+[16:38:28] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:38:28] [Server thread/INFO]: [MineChef] Loading MineChef v0.1-SNAPSHOT
+[16:38:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:38:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:38:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:38:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:38:28] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:38:28] [Server thread/INFO]: Preparing level "world"
+[16:38:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:38:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:38:28] [Server thread/INFO]: View Distance: 10
+[16:38:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:38:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:38:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:38:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:38:28] [Server thread/INFO]: Mob Spawn Range: 4
+[16:38:28] [Server thread/INFO]: Random Lighting Updates: false
+[16:38:28] [Server thread/INFO]: Structure Info Saving: true
+[16:38:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:38:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:38:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:38:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:38:28] [Server thread/INFO]: Max TNT Explosions: 100
+[16:38:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:38:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:38:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:38:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:38:29] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:38:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:38:29] [Server thread/INFO]: View Distance: 10
+[16:38:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:38:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:38:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:38:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:38:29] [Server thread/INFO]: Mob Spawn Range: 4
+[16:38:29] [Server thread/INFO]: Random Lighting Updates: false
+[16:38:29] [Server thread/INFO]: Structure Info Saving: true
+[16:38:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:38:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:38:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:38:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:38:29] [Server thread/INFO]: Max TNT Explosions: 100
+[16:38:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:38:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:38:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:38:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:38:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:38:29] [Server thread/INFO]: View Distance: 10
+[16:38:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:38:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:38:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:38:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:38:29] [Server thread/INFO]: Mob Spawn Range: 4
+[16:38:29] [Server thread/INFO]: Random Lighting Updates: false
+[16:38:29] [Server thread/INFO]: Structure Info Saving: true
+[16:38:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:38:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:38:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:38:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:38:29] [Server thread/INFO]: Max TNT Explosions: 100
+[16:38:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:38:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:38:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:38:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:38:29] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6168212509833718256)
+[16:38:30] [Server thread/INFO]: Preparing spawn area: 33%
+[16:38:31] [Server thread/INFO]: Preparing spawn area: 78%
+[16:38:31] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6168212509833718256)
+[16:38:32] [Server thread/INFO]: Preparing spawn area: 93%
+[16:38:32] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6168212509833718256)
+[16:38:33] [Server thread/INFO]: [MineChef] Enabling MineChef v0.1-SNAPSHOT
+[16:38:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:38:33] [Server thread/INFO]: Done (4.384s)! For help, type "help" or "?"
+[16:39:19] [User Authenticator #1/INFO]: UUID of player OneEyedJames is 8c7a3480-4c8a-3c81-91fc-6663db695c98
+[16:39:21] [Server thread/INFO]: OneEyedJames[/127.0.0.1:58427] logged in with entity id 312 at ([world]533.7904755661282, 75.0, 263.81034471808806)
+[16:42:28] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:42:28] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:44:01] [Server thread/INFO]: Set OneEyedJames's game mode to Creative Mode
+[16:45:28] [Server thread/INFO]: Set OneEyedJames's game mode to Survival Mode
+[16:46:08] [Server thread/INFO]: There is no such item with name minecraft:ender_crystal
+[16:47:30] [Server thread/INFO]: Given [End Crystal] * 1 to OneEyedJames
+[16:47:33] [Server thread/INFO]: Given [End Crystal] * 3 to OneEyedJames
+[16:47:47] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:47:52] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:47:54] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:47:59] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:49:43] [Server thread/INFO]: Given [End Crystal] * 8 to OneEyedJames
+[16:49:52] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:49:53] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:49:56] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:49:59] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:50:02] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:50:04] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:50:05] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:50:06] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:47) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574) [spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_101]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.server.v1_11_R1.EnderDragonBattle.e(SourceFile:464) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemEndCrystal.a(SourceFile:61) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:152) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_101]
+	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46) ~[spigot-1.11.jar:git-Spigot-6f7aabf-c8ff651]
+	... 5 more
+[16:50:51] [Server thread/INFO]: Cannot summon the object out of the world
+[16:51:16] [Server thread/INFO]: Cannot summon the object out of the world
+[16:51:45] [Server thread/INFO]: Cannot summon the object out of the world
+[16:52:25] [Server thread/INFO]: Set OneEyedJames's game mode to Creative Mode
+[17:01:03] [Server thread/INFO]: Set OneEyedJames's game mode to Survival Mode
+[17:02:28] [Server thread/INFO]: OneEyedJames lost connection: Disconnected
+[17:02:28] [Server thread/INFO]: OneEyedJames left the game
+[17:02:33] [User Authenticator #2/INFO]: UUID of player OneEyedJames is 8c7a3480-4c8a-3c81-91fc-6663db695c98
+[17:02:33] [Server thread/INFO]: OneEyedJames[/127.0.0.1:64544] logged in with entity id 771 at ([world_the_end]-1268.606096271891, 65.0, -568.7296018473678)
+[17:03:00] [Server thread/INFO]: Attempted to place a tile entity (net.minecraft.server.v1_11_R1.TileEntityEnderChest@6dc8ee0f) at -1177,113,-586 (AIR) where there was no entity tile!
+[17:03:00] [Server thread/INFO]: Chunk coordinates: -1184,-592
+[17:03:00] [Server thread/WARN]: java.lang.Exception
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.Chunk.a(Chunk.java:728)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.World.setTileEntity(World.java:2017)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:212)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[17:03:00] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[17:03:00] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574)
+[17:03:00] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:03:00] [Server thread/INFO]: Attempted to place a tile entity (net.minecraft.server.v1_11_R1.TileEntityChest@7b3b22ee) at -1178,113,-586 (AIR) where there was no entity tile!
+[17:03:00] [Server thread/INFO]: Chunk coordinates: -1184,-592
+[17:03:00] [Server thread/WARN]: java.lang.Exception
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.Chunk.a(Chunk.java:728)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.World.setTileEntity(World.java:2017)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.ItemStack.placeItem(ItemStack.java:212)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:491)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:897)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[17:03:00] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[17:03:00] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:739)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:675)
+[17:03:00] [Server thread/WARN]: 	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:574)
+[17:03:00] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:745)
+[17:07:20] [Server thread/INFO]: Set OneEyedJames's game mode to Creative Mode
+[17:10:45] [Server thread/INFO]: Set OneEyedJames's game mode to Survival Mode
+[17:15:15] [Server thread/INFO]: Set OneEyedJames's game mode to Creative Mode
+[17:15:57] [Server thread/INFO]: Set OneEyedJames's game mode to Survival Mode
+[17:16:44] [Server thread/INFO]: Set OneEyedJames's game mode to Creative Mode
+[17:18:04] [Server thread/INFO]: Given [Ender Pearl] * 1 to OneEyedJames
+[17:18:48] [Server thread/INFO]: Set OneEyedJames's game mode to Survival Mode
+[17:20:21] [Server thread/INFO]: Given [Ender Pearl] * 1 to OneEyedJames
+[17:20:54] [Server thread/INFO]: Set OneEyedJames's game mode to Creative Mode
+[17:22:50] [Server thread/INFO]: Set OneEyedJames's game mode to Survival Mode
+[17:27:45] [Server thread/INFO]: OneEyedJames lost connection: Disconnected
+[17:27:45] [Server thread/INFO]: OneEyedJames left the game
+[17:27:50] [Server thread/INFO]: Stopping the server
+[17:27:50] [Server thread/INFO]: Stopping server
+[17:27:50] [Server thread/INFO]: [MineChef] Disabling MineChef v0.1-SNAPSHOT
+[17:27:50] [Server thread/INFO]: Saving players
+[17:27:50] [Server thread/INFO]: Saving worlds
+[17:27:50] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:27:50] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:27:50] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
