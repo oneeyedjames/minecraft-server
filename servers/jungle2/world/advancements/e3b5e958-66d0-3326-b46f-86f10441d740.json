@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2017-12-14 20:02:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-12-04 19:12:40 -0500"
@@ -558,6 +564,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2017-12-14 19:58:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2017-12-04 19:24:54 -0500"
@@ -633,6 +645,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-12-09 20:02:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2017-12-14 19:59:00 -0500"
     },
     "done": true
   },
@@ -991,6 +1009,7 @@
       "birch_forest": "2017-12-04 19:39:32 -0500",
       "extreme_hills_with_trees": "2017-12-04 19:48:42 -0500",
       "forest_hills": "2017-12-04 19:06:28 -0500",
+      "plains": "2017-12-14 19:53:04 -0500",
       "birch_forest_hills": "2017-12-04 19:58:04 -0500",
       "extreme_hills": "2017-12-04 19:40:46 -0500",
       "roofed_forest": "2017-12-04 19:24:30 -0500",
@@ -1169,6 +1188,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2017-12-09 19:54:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2017-12-14 19:59:18 -0500"
     },
     "done": true
   },
