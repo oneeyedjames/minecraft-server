@@ -18,7 +18,6 @@ settings:
   moved-wrongly-threshold: 0.0625
   sample-count: 12
   player-shuffle: 0
-  item-dirty-ticks: 20
   user-cache-size: 1000
   int-cache-limit: 1024
   netty-threads: 4
@@ -29,23 +28,24 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  late-bind: false
-  bungeecord: false
+  item-dirty-ticks: 20
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
+  bungeecord: false
+  late-bind: false
   moved-too-quickly-multiplier: 10.0
 commands:
   tab-complete: 0
   silent-commandblock-console: false
   log: true
+  spam-exclusions:
+  - /skill
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-  spam-exclusions:
-  - /skill
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -63,10 +63,10 @@ stats:
 world-settings:
   default:
     verbose: true
-    item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
+    item-despawn-rate: 6000
     wither-spawn-sound-radius: 0
     view-distance: 10
     arrow-despawn-rate: 1200
@@ -74,17 +74,16 @@ world-settings:
     enable-zombie-pigmen-portal-spawns: true
     hanging-tick-frequency: 100
     nerf-spawner-mobs: false
-    mob-spawn-range: 4
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -96,8 +95,8 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
+    mob-spawn-range: 4
     random-light-updates: false
-    save-structure-info: true
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2
@@ -106,10 +105,11 @@ world-settings:
       swim-multiplier: 0.01
       sprint-multiplier: 0.1
       other-multiplier: 0.0
-    max-tnt-per-tick: 100
     max-tick-time:
       tile: 50
       entity: 50
+    max-tnt-per-tick: 100
+    save-structure-info: true
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
