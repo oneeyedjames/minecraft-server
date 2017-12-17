@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-12-05 13:43:47 -0500"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2017-12-05 13:51:28 -0500"
@@ -116,6 +128,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2017-12-04 19:15:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
     },
     "done": true
   },
@@ -197,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2017-12-05 14:04:39 -0500"
@@ -245,6 +269,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2017-12-16 20:18:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2017-12-16 20:18:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-12-05 13:36:11 -0500"
@@ -254,6 +296,12 @@
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2017-12-04 19:10:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
     },
     "done": true
   },
@@ -291,6 +339,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2017-12-04 19:19:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
     },
     "done": true
   },
@@ -402,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2017-12-05 13:38:27 -0500"
@@ -435,6 +495,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-12-05 13:36:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
     },
     "done": true
   },
@@ -484,6 +550,7 @@
     "criteria": {
       "forest": "2017-12-04 19:06:10 -0500",
       "birch_forest": "2017-12-04 19:36:14 -0500",
+      "swampland": "2017-12-16 20:28:19 -0500",
       "extreme_hills_with_trees": "2017-12-04 19:47:19 -0500",
       "forest_hills": "2017-12-04 18:59:32 -0500",
       "extreme_hills": "2017-12-04 19:36:33 -0500",
@@ -536,6 +603,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-12-04 19:36:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
     },
     "done": true
   },
@@ -659,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2017-12-16 20:18:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2017-12-04 19:26:18 -0500"
@@ -680,6 +759,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-12-05 13:38:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
     },
     "done": true
   },
@@ -740,6 +825,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-12-05 13:43:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2017-12-16 20:33:21 -0500"
     },
     "done": true
   }
