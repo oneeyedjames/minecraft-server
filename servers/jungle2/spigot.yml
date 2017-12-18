@@ -63,17 +63,16 @@ stats:
 world-settings:
   default:
     verbose: true
-    arrow-despawn-rate: 1200
-    wither-spawn-sound-radius: 0
-    view-distance: 10
-    hanging-tick-frequency: 100
-    nerf-spawner-mobs: false
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
-    zombie-aggressive-towards-villager: true
     enable-zombie-pigmen-portal-spawns: true
+    hanging-tick-frequency: 100
+    arrow-despawn-rate: 1200
+    wither-spawn-sound-radius: 0
+    view-distance: 10
+    nerf-spawner-mobs: false
     mob-spawn-range: 4
     growth:
       cactus-modifier: 100
@@ -119,3 +118,4 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    zombie-aggressive-towards-villager: true
