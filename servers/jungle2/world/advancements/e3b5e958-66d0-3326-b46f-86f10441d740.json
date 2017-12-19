@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2017-12-19 13:16:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-12-04 19:12:40 -0500"
@@ -440,6 +446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2017-12-19 13:16:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-12-04 20:44:55 -0500"
@@ -743,6 +755,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2017-12-04 19:39:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2017-12-19 13:16:27 -0500"
     },
     "done": true
   },
@@ -1256,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2017-12-19 13:16:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2017-12-15 19:53:14 -0500"
@@ -1373,6 +1397,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2017-12-04 19:11:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2017-12-19 13:16:27 -0500"
     },
     "done": true
   },
