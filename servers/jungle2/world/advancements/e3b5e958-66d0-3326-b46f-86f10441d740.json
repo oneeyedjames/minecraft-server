@@ -369,6 +369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2017-12-22 16:35:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-12-04 20:44:55 -0500"
@@ -533,6 +539,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_sheep": "2017-12-22 16:16:07 -0500",
       "bred_cow": "2017-12-22 12:59:36 -0500",
       "bred_pig": "2017-12-22 12:59:14 -0500"
     },
@@ -778,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2017-12-22 15:37:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2017-12-04 19:24:54 -0500"
@@ -826,9 +839,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2017-12-22 16:35:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-12-09 20:02:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2017-12-22 16:28:47 -0500"
     },
     "done": true
   },
@@ -976,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2017-12-22 16:29:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-12-04 19:38:39 -0500"
@@ -1081,6 +1112,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2017-12-10 18:12:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2017-12-22 15:37:51 -0500"
     },
     "done": true
   },
@@ -1216,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2017-12-22 15:37:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2017-12-15 19:37:09 -0500"
@@ -1300,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2017-12-22 16:29:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2017-12-10 18:16:33 -0500"
@@ -1360,9 +1409,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2017-12-22 16:29:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2017-12-04 20:36:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2017-12-22 16:28:47 -0500"
     },
     "done": true
   },
@@ -1633,6 +1694,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2017-12-04 19:26:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2017-12-22 16:28:47 -0500"
     },
     "done": true
   },
