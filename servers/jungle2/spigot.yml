@@ -13,11 +13,9 @@
 config-version: 11
 settings:
   debug: false
-  late-bind: false
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
+  save-user-cache-on-stop-only: false
   bungeecord: false
+  late-bind: false
   sample-count: 12
   player-shuffle: 0
   filter-creative-items: true
@@ -26,6 +24,9 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
   netty-threads: 4
   attribute:
     maxHealth:
@@ -34,7 +35,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  save-user-cache-on-stop-only: false
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -43,6 +43,7 @@ messages:
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
 commands:
+  tab-complete: 0
   log: true
   spam-exclusions:
   - /skill
@@ -52,7 +53,6 @@ commands:
   - summon
   - testforblock
   - tellraw
-  tab-complete: 0
 advancements:
   disable-saving: false
   disabled:
@@ -63,15 +63,13 @@ stats:
 world-settings:
   default:
     verbose: true
-    wither-spawn-sound-radius: 0
-    view-distance: 10
+    hanging-tick-frequency: 100
     merge-radius:
       exp: 3.0
       item: 2.5
-    item-despawn-rate: 6000
     zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
-    mob-spawn-range: 4
+    arrow-despawn-rate: 1200
+    item-despawn-rate: 6000
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -83,9 +81,10 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    arrow-despawn-rate: 1200
+    mob-spawn-range: 4
     enable-zombie-pigmen-portal-spawns: true
-    hanging-tick-frequency: 100
+    wither-spawn-sound-radius: 0
+    view-distance: 10
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -119,3 +118,4 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    nerf-spawner-mobs: false
