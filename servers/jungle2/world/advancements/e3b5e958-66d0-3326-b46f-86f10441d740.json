@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2017-12-09 20:02:18 -0500"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2017-12-10 18:12:52 -0500"
@@ -314,6 +326,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2017-12-20 13:28:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2017-12-22 20:20:55 -0500"
     },
     "done": true
   },
@@ -358,6 +376,7 @@
       "apple": "2017-12-05 19:22:19 -0500",
       "potato": "2017-12-17 17:42:39 -0500",
       "bread": "2017-12-13 20:04:55 -0500",
+      "raw_cod": "2017-12-22 20:22:28 -0500",
       "beetroot": "2017-12-22 12:59:12 -0500",
       "carrot": "2017-12-18 17:34:54 -0500"
     },
@@ -539,6 +558,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2017-12-22 21:03:03 -0500",
       "bred_sheep": "2017-12-22 16:16:07 -0500",
       "bred_cow": "2017-12-22 12:59:36 -0500",
       "bred_pig": "2017-12-22 12:59:14 -0500"
@@ -593,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-12-04 19:26:54 -0500"
@@ -638,6 +664,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2017-12-20 11:29:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
     },
     "done": true
   },
@@ -833,6 +865,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2017-12-16 20:49:19 -0500"
@@ -848,6 +892,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-12-09 20:02:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
     },
     "done": true
   },
@@ -917,9 +967,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2017-12-22 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2017-12-04 19:27:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
     },
     "done": true
   },
@@ -1046,6 +1108,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-12-16 18:54:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
     },
     "done": true
   },
@@ -1652,6 +1720,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-12-09 20:02:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2017-12-22 20:37:49 -0500"
     },
     "done": true
   },
