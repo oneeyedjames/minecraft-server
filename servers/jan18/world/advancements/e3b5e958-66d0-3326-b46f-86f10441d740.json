@@ -223,6 +223,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2018-01-07 16:07:15 -0500",
       "bread": "2018-01-06 12:21:30 -0500"
     },
     "done": false
@@ -791,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-01-07 15:38:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-01-06 13:20:54 -0500"
@@ -941,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-01-07 15:38:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2018-01-06 11:45:47 -0500"
@@ -1073,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-01-07 15:38:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2018-01-04 20:14:03 -0500"
@@ -1130,6 +1149,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-01-06 14:19:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2018-01-07 15:38:17 -0500"
     },
     "done": true
   },
