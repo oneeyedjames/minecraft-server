@@ -53,15 +53,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2018-01-25 20:51:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2018-01-25 20:52:01 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_green_wool": "2018-01-25 20:51:47 -0500"
+      "has_quartz": "2018-01-26 19:34:36 -0500"
     },
     "done": true
   },
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-01-13 14:42:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-01-26 19:33:25 -0500"
     },
     "done": true
   },
@@ -332,6 +344,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2018-01-04 20:27:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-01-26 19:34:36 -0500"
     },
     "done": true
   },
@@ -609,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-01-26 19:34:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2018-01-04 20:25:55 -0500"
@@ -683,6 +707,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2018-01-25 20:51:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-01-26 19:34:36 -0500"
     },
     "done": true
   },
@@ -983,6 +1013,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2018-01-13 19:58:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-01-26 19:33:25 -0500"
     },
     "done": true
   },
@@ -1610,6 +1646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2018-01-26 19:51:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2018-01-13 19:59:12 -0500"
@@ -1679,6 +1721,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-01-06 12:59:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-01-26 19:34:36 -0500"
     },
     "done": true
   },
@@ -1897,6 +1945,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2018-01-21 16:26:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-01-26 19:34:36 -0500"
     },
     "done": true
   },
