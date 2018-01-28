@@ -956,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2018-01-28 17:32:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-01-04 20:50:22 -0500"
@@ -1532,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-01-28 17:32:08 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_the_recipe": "2018-01-06 11:41:40 -0500"
@@ -1565,6 +1577,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2018-01-06 11:45:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-01-28 17:32:19 -0500"
     },
     "done": true
   },
@@ -1751,10 +1769,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2018-01-04 20:23:53 -0500",
+      "mesa_rock": "2018-01-28 17:24:55 -0500",
       "birch_forest": "2018-01-21 16:25:08 -0500",
       "deep_ocean": "2018-01-04 20:14:38 -0500",
       "beaches": "2018-01-04 20:12:31 -0500",
       "desert_hills": "2018-01-04 20:17:10 -0500",
+      "mesa": "2018-01-28 17:24:56 -0500",
       "forest_hills": "2018-01-04 20:19:24 -0500",
       "plains": "2018-01-04 20:12:24 -0500",
       "jungle_edge": "2018-01-06 11:46:36 -0500",
@@ -1906,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2018-01-28 17:32:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-01-13 14:42:54 -0500"
@@ -1966,6 +1992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2018-01-28 17:32:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-01-06 14:11:32 -0500"
@@ -1999,6 +2031,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_wolf": "2018-01-14 22:30:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-01-28 17:32:19 -0500"
     },
     "done": true
   },
