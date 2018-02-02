@@ -1,3 +1,5 @@
 builds/*
 workspace/*
 spigot.jar
+
+servers/*/logs
