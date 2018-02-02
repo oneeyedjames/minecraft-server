@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-02-01 18:59:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_double_plant": "2018-02-01 19:16:58 -0500"
@@ -35,9 +41,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_reeds": "2018-02-01 18:59:26 -0500"
+      "has_red_flower": "2018-02-01 20:51:11 -0500"
     },
     "done": true
   },
@@ -53,6 +59,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2018-02-01 21:00:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2018-02-01 20:31:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-02-01 19:47:01 -0500"
@@ -62,6 +80,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2018-02-01 19:47:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-02-01 20:39:23 -0500"
     },
     "done": true
   },
@@ -77,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-02-01 21:03:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-02-01 19:01:30 -0500"
@@ -89,9 +119,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-02-01 20:31:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2018-02-01 19:01:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-02-01 20:26:27 -0500"
     },
     "done": true
   },
@@ -209,15 +251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2018-02-01 19:08:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2018-02-01 19:10:07 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_cobblestone": "2018-02-01 19:08:36 -0500"
+      "has_beetroot": "2018-02-01 20:34:32 -0500"
     },
     "done": true
   },
@@ -287,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2018-02-01 20:26:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2018-02-01 19:42:55 -0500"
@@ -347,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-02-01 20:31:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-02-01 19:42:55 -0500"
@@ -383,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2018-02-01 20:59:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-02-01 19:47:01 -0500"
@@ -401,15 +467,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2018-02-01 19:08:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-02-01 19:42:55 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_cobblestone": "2018-02-01 19:08:36 -0500"
+      "has_double_plant": "2018-02-01 20:57:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-02-01 20:34:32 -0500"
     },
     "done": true
   },
@@ -422,8 +500,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2018-02-01 19:04:04 -0500",
+      "swampland": "2018-02-01 20:50:45 -0500",
+      "birch_forest": "2018-02-01 20:54:47 -0500",
+      "extreme_hills_with_trees": "2018-02-01 20:49:05 -0500",
       "plains": "2018-02-01 18:58:26 -0500",
       "jungle_edge": "2018-02-01 18:58:14 -0500",
+      "taiga": "2018-02-01 20:33:12 -0500",
+      "extreme_hills": "2018-02-01 20:25:08 -0500",
       "river": "2018-02-01 18:58:23 -0500",
       "jungle": "2018-02-01 18:57:27 -0500"
     },
@@ -483,6 +566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2018-02-01 20:59:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2018-02-01 18:58:23 -0500"
@@ -513,19 +602,25 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2018-02-01 20:00:57 -0500"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2018-02-01 19:46:16 -0500"
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-02-01 20:00:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2018-02-01 18:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2018-02-01 18:58:23 -0500"
     },
@@ -537,15 +632,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "entered_water": "2018-02-01 18:58:23 -0500"
+      "has_brown_mushroom": "2018-02-01 20:33:38 -0500"
     },
     "done": true
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-02-01 19:47:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-02-01 20:59:45 -0500"
     },
     "done": true
   },
@@ -573,6 +674,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2018-02-01 20:32:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2018-02-01 21:03:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-02-01 19:47:01 -0500"
@@ -591,9 +704,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2018-02-01 21:03:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-02-01 19:22:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2018-02-01 19:47:01 -0500"
     },
     "done": true
   },
@@ -603,9 +728,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
+  "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
-      "has_white_wool": "2018-02-01 19:47:01 -0500"
+      "has_melon": "2018-02-01 20:26:27 -0500"
     },
     "done": true
   },
@@ -618,6 +743,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-02-01 19:08:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2018-02-01 20:41:39 -0500"
     },
     "done": true
   },
@@ -675,21 +806,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2018-02-01 19:47:35 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2018-02-01 19:01:30 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-02-01 19:47:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-02-01 19:47:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-02-01 20:27:26 -0500"
     },
     "done": true
   }
