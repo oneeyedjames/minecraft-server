@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-02-11 18:02:44 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-02-01 19:01:30 -0500"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2018-02-11 17:46:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-02-03 14:10:18 -0500"
@@ -435,6 +447,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-02-01 20:31:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-02-11 18:02:44 -0500"
     },
     "done": true
   },
@@ -609,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-02-11 17:53:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2018-02-01 19:47:01 -0500"
@@ -726,6 +750,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-02-02 21:37:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-02-11 18:02:44 -0500"
     },
     "done": true
   },
@@ -1281,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-02-11 18:02:44 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-02-02 20:33:00 -0500"
@@ -1322,6 +1358,7 @@
       "forest": "2018-02-01 19:04:04 -0500",
       "swampland": "2018-02-01 20:50:45 -0500",
       "birch_forest": "2018-02-01 20:54:47 -0500",
+      "beaches": "2018-02-11 17:44:16 -0500",
       "extreme_hills_with_trees": "2018-02-01 20:49:05 -0500",
       "forest_hills": "2018-02-04 15:29:29 -0500",
       "plains": "2018-02-01 18:58:26 -0500",
@@ -1329,6 +1366,7 @@
       "jungle_hills": "2018-02-10 19:47:04 -0500",
       "taiga": "2018-02-01 20:33:12 -0500",
       "extreme_hills": "2018-02-01 20:25:08 -0500",
+      "roofed_forest": "2018-02-11 17:46:49 -0500",
       "river": "2018-02-01 18:58:23 -0500",
       "jungle": "2018-02-01 18:57:27 -0500"
     },
@@ -1403,6 +1441,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2018-02-03 13:41:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-02-11 18:02:44 -0500"
     },
     "done": true
   },
