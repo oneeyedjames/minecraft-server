@@ -345,7 +345,8 @@
     "criteria": {
       "apple": "2018-02-04 15:17:27 -0500",
       "potato": "2018-02-11 20:57:04 -0500",
-      "bread": "2018-02-02 20:06:35 -0500"
+      "bread": "2018-02-02 20:06:35 -0500",
+      "beetroot": "2018-02-12 22:31:58 -0500"
     },
     "done": false
   },
@@ -865,6 +866,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-02-03 16:28:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2018-02-12 22:04:55 -0500"
     },
     "done": true
   },
@@ -1534,6 +1541,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-03 16:28:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-02-12 22:04:55 -0500"
     },
     "done": true
   },
