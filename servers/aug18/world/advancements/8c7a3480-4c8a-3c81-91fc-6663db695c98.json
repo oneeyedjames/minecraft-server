@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2018-07-28 16:28:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2018-07-27 20:52:17 -0400"
@@ -65,19 +71,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-07-28 16:26:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2018-07-25 21:30:13 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-07-25 21:47:58 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2018-07-25 21:47:58 -0400"
     },
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-07-28 16:26:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-07-27 20:47:01 -0400"
@@ -236,6 +254,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-07-25 19:29:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2018-07-28 16:40:03 -0400"
     },
     "done": true
   },
@@ -462,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-07-28 16:26:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2018-07-27 20:51:32 -0400"
@@ -669,8 +699,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-07-25 19:34:56 -0400",
-      "minecraft:mountains": "2018-07-25 21:38:12 -0400",
       "minecraft:forest": "2018-07-25 19:27:36 -0400",
+      "minecraft:mountains": "2018-07-25 21:38:12 -0400",
+      "minecraft:taiga": "2018-07-28 17:02:01 -0400",
       "minecraft:deep_frozen_ocean": "2018-07-25 19:36:12 -0400",
       "minecraft:beach": "2018-07-25 19:31:32 -0400",
       "minecraft:river": "2018-07-25 19:31:24 -0400",
@@ -829,6 +860,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2018-07-25 21:42:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-07-28 16:26:59 -0400"
     },
     "done": true
   },
