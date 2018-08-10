@@ -83,13 +83,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2018-07-25 21:47:58 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-07-25 21:47:58 -0400"
     },
@@ -432,6 +432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-08-10 18:11:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2018-07-27 20:51:32 -0400"
@@ -696,11 +702,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2018-08-10 18:49:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-07-25 19:34:56 -0400",
-      "minecraft:forest": "2018-07-25 19:27:36 -0400",
       "minecraft:mountains": "2018-07-25 21:38:12 -0400",
+      "minecraft:forest": "2018-07-25 19:27:36 -0400",
       "minecraft:taiga": "2018-07-28 17:02:01 -0400",
       "minecraft:deep_frozen_ocean": "2018-07-25 19:36:12 -0400",
       "minecraft:beach": "2018-07-25 19:31:32 -0400",
@@ -818,6 +830,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-25 21:32:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2018-08-10 18:49:04 -0400"
     },
     "done": true
   },
@@ -971,15 +989,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-07-25 21:51:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-25 21:51:02 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_bed": "2018-07-25 21:51:02 -0400"
+      "has_log": "2018-08-10 18:11:13 -0400"
     },
     "done": true
   },
