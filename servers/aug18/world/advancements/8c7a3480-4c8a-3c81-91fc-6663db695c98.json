@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-08-19 15:53:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-08-19 15:51:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2018-07-25 21:30:13 -0400"
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-08-19 15:47:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2018-07-25 19:29:53 -0400"
@@ -92,6 +110,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_at_least_9_redstone": "2018-07-27 20:56:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-08-19 15:49:35 -0400"
     },
     "done": true
   },
@@ -170,6 +194,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2018-07-27 20:43:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2018-08-19 15:48:54 -0400"
     },
     "done": true
   },
@@ -282,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-08-19 15:51:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2018-07-25 21:32:38 -0400"
@@ -375,6 +411,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-07-27 20:51:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-08-19 15:48:54 -0400"
     },
     "done": true
   },
@@ -744,6 +786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2018-08-19 16:21:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2018-07-25 21:47:58 -0400"
@@ -783,6 +831,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-25 21:32:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-08-19 15:53:36 -0400"
     },
     "done": true
   },
@@ -969,11 +1023,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-07-25 19:34:56 -0400",
-      "minecraft:forest": "2018-07-25 19:27:36 -0400",
       "minecraft:mountains": "2018-07-25 21:38:12 -0400",
+      "minecraft:forest": "2018-07-25 19:27:36 -0400",
       "minecraft:taiga": "2018-07-28 17:02:01 -0400",
       "minecraft:deep_frozen_ocean": "2018-07-25 19:36:12 -0400",
       "minecraft:beach": "2018-07-25 19:31:32 -0400",
+      "minecraft:dark_forest": "2018-08-19 15:56:32 -0400",
       "minecraft:river": "2018-07-25 19:31:24 -0400",
       "minecraft:wooded_mountains": "2018-07-25 22:00:32 -0400",
       "minecraft:wooded_hills": "2018-07-25 21:46:36 -0400",
@@ -1094,6 +1149,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2018-07-25 22:01:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2018-08-19 15:47:18 -0400"
     },
     "done": true
   },
