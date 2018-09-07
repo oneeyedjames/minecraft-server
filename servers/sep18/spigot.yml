@@ -61,16 +61,16 @@ advancements:
 world-settings:
   default:
     verbose: true
+    enable-zombie-pigmen-portal-spawns: true
     merge-radius:
       exp: 3.0
       item: 2.5
-    item-despawn-rate: 6000
-    enable-zombie-pigmen-portal-spawns: true
-    arrow-despawn-rate: 1200
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
     wither-spawn-sound-radius: 0
     view-distance: 10
+    arrow-despawn-rate: 1200
+    item-despawn-rate: 6000
+    zombie-aggressive-towards-villager: true
+    hanging-tick-frequency: 100
     nerf-spawner-mobs: false
     ticks-per:
       hopper-transfer: 8
