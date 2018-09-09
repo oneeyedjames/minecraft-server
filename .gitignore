@@ -3,3 +3,6 @@ workspace/*
 spigot.jar
 
 servers/*/logs
+
+plugins
+datapacks
