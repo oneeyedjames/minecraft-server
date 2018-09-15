@@ -32,9 +32,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-stats:
-  disable-saving: false
-  forced-stats: {}
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -42,6 +39,9 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
+stats:
+  disable-saving: false
+  forced-stats: {}
 commands:
   log: true
   tab-complete: 0
@@ -61,15 +61,17 @@ advancements:
 world-settings:
   default:
     verbose: true
+    hanging-tick-frequency: 100
+    arrow-despawn-rate: 1200
     merge-radius:
       exp: 3.0
       item: 2.5
     enable-zombie-pigmen-portal-spawns: true
+    item-despawn-rate: 6000
     nerf-spawner-mobs: false
     wither-spawn-sound-radius: 0
     view-distance: 10
     zombie-aggressive-towards-villager: true
-    hanging-tick-frequency: 100
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
@@ -122,5 +124,3 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
