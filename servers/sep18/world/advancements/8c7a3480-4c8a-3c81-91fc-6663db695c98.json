@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2018-09-21 18:56:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-09-09 17:46:44 -0400"
@@ -660,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2018-09-21 18:56:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2018-09-02 14:31:00 -0400"
@@ -981,6 +993,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-09-02 15:40:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2018-09-21 18:53:40 -0400"
     },
     "done": true
   },
@@ -1314,11 +1332,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2018-09-21 18:56:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-09-05 20:28:03 -0400",
-      "minecraft:forest": "2018-09-02 14:27:56 -0400",
       "minecraft:mountains": "2018-09-21 16:40:37 -0400",
+      "minecraft:forest": "2018-09-02 14:27:56 -0400",
       "minecraft:taiga": "2018-09-21 16:40:03 -0400",
       "minecraft:deep_cold_ocean": "2018-09-07 19:13:27 -0400",
       "minecraft:desert": "2018-09-07 18:58:27 -0400",
