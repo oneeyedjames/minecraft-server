@@ -13,6 +13,7 @@
 config-version: 11
 settings:
   debug: false
+  save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
   sample-count: 12
@@ -31,7 +32,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  save-user-cache-on-stop-only: false
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -61,17 +61,17 @@ advancements:
 world-settings:
   default:
     verbose: true
-    wither-spawn-sound-radius: 0
-    view-distance: 10
+    arrow-despawn-rate: 1200
+    nerf-spawner-mobs: false
     merge-radius:
       exp: 3.0
       item: 2.5
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
-    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
+    hanging-tick-frequency: 100
+    wither-spawn-sound-radius: 0
+    view-distance: 10
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
