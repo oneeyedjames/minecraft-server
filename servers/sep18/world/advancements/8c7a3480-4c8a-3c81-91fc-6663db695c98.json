@@ -434,6 +434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2018-09-30 18:24:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2018-09-07 18:42:21 -0400"
@@ -452,13 +458,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-09-08 12:56:49 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-09-08 12:56:49 -0400"
     },
@@ -552,8 +558,8 @@
     "criteria": {
       "minecraft:cow": "2018-09-21 17:16:25 -0400",
       "minecraft:chicken": "2018-09-22 21:24:56 -0400",
-      "minecraft:pig": "2018-09-24 18:42:13 -0400",
       "minecraft:wolf": "2018-09-22 22:06:11 -0400",
+      "minecraft:pig": "2018-09-24 18:42:13 -0400",
       "minecraft:sheep": "2018-09-21 17:17:02 -0400"
     },
     "done": false
@@ -858,13 +864,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-09-16 16:12:57 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-09-16 16:12:57 -0400"
     },
@@ -975,6 +981,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-09-16 18:31:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-09-30 18:29:43 -0400"
     },
     "done": true
   },
@@ -1149,6 +1161,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2018-09-02 15:40:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2018-09-30 18:29:41 -0400"
     },
     "done": true
   },
@@ -1563,8 +1581,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-09-05 20:28:03 -0400",
-      "minecraft:forest": "2018-09-02 14:27:56 -0400",
       "minecraft:mountains": "2018-09-21 16:40:37 -0400",
+      "minecraft:forest": "2018-09-02 14:27:56 -0400",
       "minecraft:taiga": "2018-09-21 16:40:03 -0400",
       "minecraft:deep_cold_ocean": "2018-09-07 19:13:27 -0400",
       "minecraft:desert": "2018-09-07 18:58:27 -0400",
@@ -1730,6 +1748,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-09-16 18:31:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-09-30 18:29:43 -0400"
     },
     "done": true
   },
