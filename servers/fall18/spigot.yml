@@ -13,14 +13,6 @@
 config-version: 11
 settings:
   debug: false
-  save-user-cache-on-stop-only: false
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -32,6 +24,14 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  save-user-cache-on-stop-only: false
+  bungeecord: false
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -61,16 +61,16 @@ advancements:
 world-settings:
   default:
     verbose: true
-    merge-radius:
-      exp: 3.0
-      item: 2.5
     item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     wither-spawn-sound-radius: 0
     view-distance: 10
     enable-zombie-pigmen-portal-spawns: true
-    hanging-tick-frequency: 100
+    arrow-despawn-rate: 1200
     zombie-aggressive-towards-villager: true
+    hanging-tick-frequency: 100
     nerf-spawner-mobs: false
     ticks-per:
       hopper-transfer: 8
