@@ -477,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2018-10-15 12:11:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2018-09-02 14:38:49 -0400"
@@ -667,8 +673,8 @@
     "criteria": {
       "minecraft:cow": "2018-09-21 17:16:25 -0400",
       "minecraft:chicken": "2018-09-22 21:24:56 -0400",
-      "minecraft:pig": "2018-09-24 18:42:13 -0400",
       "minecraft:wolf": "2018-09-22 22:06:11 -0400",
+      "minecraft:pig": "2018-09-24 18:42:13 -0400",
       "minecraft:sheep": "2018-09-21 17:17:02 -0400"
     },
     "done": false
@@ -985,6 +991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2018-10-15 12:26:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-09-02 15:42:56 -0400"
@@ -1027,13 +1039,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-09-16 16:12:57 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-09-16 16:12:57 -0400"
     },
@@ -1150,6 +1162,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-09-07 18:53:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2018-10-15 12:11:45 -0400"
     },
     "done": true
   },
@@ -1870,8 +1888,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-09-05 20:28:03 -0400",
-      "minecraft:forest": "2018-09-02 14:27:56 -0400",
       "minecraft:mountains": "2018-09-21 16:40:37 -0400",
+      "minecraft:forest": "2018-09-02 14:27:56 -0400",
       "minecraft:taiga": "2018-09-21 16:40:03 -0400",
       "minecraft:deep_cold_ocean": "2018-09-07 19:13:27 -0400",
       "minecraft:desert": "2018-09-07 18:58:27 -0400",
@@ -2046,6 +2064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2018-10-15 12:11:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-09-02 15:33:21 -0400"
@@ -2145,6 +2169,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-09-16 18:31:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2018-10-15 12:11:15 -0400"
     },
     "done": true
   },
