@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2019-02-16 15:27:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2019-02-14 17:58:20 -0500"
@@ -396,13 +402,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-02-14 18:39:35 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-02-14 18:39:35 -0500"
     },
@@ -542,11 +548,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-02-14 17:23:10 -0500",
       "minecraft:mountains": "2019-02-15 21:20:59 -0500",
+      "minecraft:forest": "2019-02-14 17:23:10 -0500",
       "minecraft:taiga": "2019-02-14 17:38:39 -0500",
       "minecraft:taiga_hills": "2019-02-14 18:53:34 -0500",
       "minecraft:river": "2019-02-15 20:24:57 -0500",
+      "minecraft:wooded_mountains": "2019-02-16 15:13:40 -0500",
       "minecraft:plains": "2019-02-14 17:22:37 -0500"
     },
     "done": false
@@ -626,6 +633,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-02-14 17:49:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-02-16 15:14:35 -0500"
     },
     "done": true
   },
@@ -818,6 +831,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-02-14 17:23:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-02-16 15:14:35 -0500"
     },
     "done": true
   },

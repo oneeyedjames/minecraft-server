@@ -13,6 +13,7 @@
 config-version: 11
 settings:
   debug: false
+  save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
   sample-count: 12
@@ -31,7 +32,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  save-user-cache-on-stop-only: false
 stats:
   disable-saving: false
   forced-stats: {}
@@ -61,21 +61,21 @@ messages:
 world-settings:
   default:
     verbose: true
-    arrow-despawn-rate: 1200
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    zombie-aggressive-towards-villager: true
-    wither-spawn-sound-radius: 0
-    view-distance: 10
-    nerf-spawner-mobs: false
     enable-zombie-pigmen-portal-spawns: true
-    item-despawn-rate: 6000
-    hanging-tick-frequency: 100
+    arrow-despawn-rate: 1200
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
+    wither-spawn-sound-radius: 0
+    view-distance: 10
+    item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    nerf-spawner-mobs: false
+    zombie-aggressive-towards-villager: true
+    hanging-tick-frequency: 100
     mob-spawn-range: 6
     growth:
       cactus-modifier: 100
