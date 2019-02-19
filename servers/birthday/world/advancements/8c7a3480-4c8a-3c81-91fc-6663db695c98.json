@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-02-18 20:07:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2019-02-15 21:56:09 -0500"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-02-18 19:07:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2019-02-15 20:43:14 -0500"
@@ -408,15 +420,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2019-02-15 20:46:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-02-15 20:46:59 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
-      "has_gravel": "2019-02-15 20:46:59 -0500"
+      "has_bonemeal": "2019-02-18 19:07:15 -0500"
     },
     "done": true
   },
@@ -576,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-02-18 19:38:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-02-14 17:16:00 -0500"
@@ -678,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-02-18 19:07:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2019-02-14 17:20:47 -0500"
@@ -762,13 +792,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-02-15 20:46:59 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-02-15 20:46:59 -0500"
     },
@@ -1026,6 +1056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-02-18 18:37:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-02-15 20:46:59 -0500"
@@ -1071,6 +1107,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-02-15 21:08:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2019-02-18 19:07:15 -0500"
     },
     "done": true
   },
@@ -1404,10 +1446,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2019-02-18 19:07:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-02-14 17:21:56 -0500",
       "minecraft:mountains": "2019-02-14 17:44:02 -0500",
+      "minecraft:forest": "2019-02-14 17:21:56 -0500",
       "minecraft:taiga": "2019-02-15 20:07:58 -0500",
       "minecraft:taiga_hills": "2019-02-15 20:08:18 -0500",
       "minecraft:birch_forest": "2019-02-15 20:30:02 -0500",
@@ -1452,6 +1500,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-02-15 20:51:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2019-02-18 20:07:54 -0500"
     },
     "done": true
   },
@@ -1599,15 +1653,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2019-02-15 20:46:59 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-02-15 20:46:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-02-15 20:46:59 -0500"
     },
     "done": true
   },
